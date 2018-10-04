@@ -1,0 +1,5 @@
+Deviljho,Wyvern Bruto,Dragon,DragonRayo,-
+Lagiacrus,Leviathan,Rayo,Fuego,Rayo
+Nargacuga,Wivern Volador,-,Fuego,Rayo
+Nergigante,Dragon Anciano,-,Rayo Dragon,Fuego
+Gore Magala,????,Dragon,DragonFuego,-
